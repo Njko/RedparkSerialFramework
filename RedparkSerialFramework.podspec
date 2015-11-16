@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'RedparkSerialFramework'
-  s.version             = "1.2.0"
+  s.version             = "1.2.1"
   s.summary             = "Pod including Redpark Serial sdk"
   s.description         = <<-DESC
     This pod was intended only to include the Redpark Serial SDK to facilitate the inclusion of the library amongst different projects.
