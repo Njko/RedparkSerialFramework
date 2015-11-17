@@ -8,6 +8,14 @@
 		<data>
 		7+DvWXAwC5iISpiyA+QX2Ss1bG8=
 		</data>
+		<key>Headers/RscMgr.h</key>
+		<data>
+		+M47PLgtXRIJJrNS42CYwKUMulY=
+		</data>
+		<key>Headers/redparkSerial.h</key>
+		<data>
+		XNEzlrXWeNGisz7zVLsMONqCjw8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		melmq5eYC5vc+v0oUrUxE8PX73Y=
@@ -22,6 +30,14 @@
 		<key>Headers/RedparkSerialFramework.h</key>
 		<data>
 		7+DvWXAwC5iISpiyA+QX2Ss1bG8=
+		</data>
+		<key>Headers/RscMgr.h</key>
+		<data>
+		+M47PLgtXRIJJrNS42CYwKUMulY=
+		</data>
+		<key>Headers/redparkSerial.h</key>
+		<data>
+		XNEzlrXWeNGisz7zVLsMONqCjw8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

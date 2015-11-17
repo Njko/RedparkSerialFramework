@@ -23,15 +23,17 @@
 /* Begin PBXBuildFile section */
 		E6CBCEE11BFB3DCF00D23D12 /* UselessClass.h in Headers */ = {isa = PBXBuildFile; fileRef = E6CBCEDF1BFB3DCF00D23D12 /* UselessClass.h */; };
 		E6CBCEE21BFB3DCF00D23D12 /* UselessClass.m in Sources */ = {isa = PBXBuildFile; fileRef = E6CBCEE01BFB3DCF00D23D12 /* UselessClass.m */; settings = {ASSET_TAGS = (); }; };
+		E6CBCEEF1BFB866C00D23D12 /* RedparkSerialFramework.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E6CBCEEE1BFB866C00D23D12 /* RedparkSerialFramework.podspec */; settings = {ASSET_TAGS = (); }; };
 		E6EBAF1A1BF5E8C7002F7BD1 /* RedparkSerialFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = E6EBAF191BF5E8C7002F7BD1 /* RedparkSerialFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6EBAF231BF5E8ED002F7BD1 /* redparkSerial.h in Headers */ = {isa = PBXBuildFile; fileRef = E6EBAF211BF5E8ED002F7BD1 /* redparkSerial.h */; };
-		E6EBAF241BF5E8ED002F7BD1 /* RscMgr.h in Headers */ = {isa = PBXBuildFile; fileRef = E6EBAF221BF5E8ED002F7BD1 /* RscMgr.h */; };
+		E6EBAF231BF5E8ED002F7BD1 /* redparkSerial.h in Headers */ = {isa = PBXBuildFile; fileRef = E6EBAF211BF5E8ED002F7BD1 /* redparkSerial.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E6EBAF241BF5E8ED002F7BD1 /* RscMgr.h in Headers */ = {isa = PBXBuildFile; fileRef = E6EBAF221BF5E8ED002F7BD1 /* RscMgr.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E6EBAF261BF5E8F5002F7BD1 /* libRscMgrUniv.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6EBAF251BF5E8F5002F7BD1 /* libRscMgrUniv.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E6CBCEDF1BFB3DCF00D23D12 /* UselessClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UselessClass.h; sourceTree = "<group>"; };
 		E6CBCEE01BFB3DCF00D23D12 /* UselessClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UselessClass.m; sourceTree = "<group>"; };
+		E6CBCEEE1BFB866C00D23D12 /* RedparkSerialFramework.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = RedparkSerialFramework.podspec; path = ../RedparkSerialFramework.podspec; sourceTree = "<group>"; };
 		E6EBAF161BF5E8C7002F7BD1 /* RedparkSerialFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RedparkSerialFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6EBAF191BF5E8C7002F7BD1 /* RedparkSerialFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RedparkSerialFramework.h; sourceTree = "<group>"; };
 		E6EBAF1B1BF5E8C7002F7BD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		E6EBAF0C1BF5E8C7002F7BD1 = {
 			isa = PBXGroup;
 			children = (
+				E6CBCEEE1BFB866C00D23D12 /* RedparkSerialFramework.podspec */,
 				E6EBAF181BF5E8C7002F7BD1 /* RedparkSerialFramework */,
 				E6EBAF171BF5E8C7002F7BD1 /* Products */,
 			);
@@ -157,6 +160,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6CBCEEF1BFB866C00D23D12 /* RedparkSerialFramework.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

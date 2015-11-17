@@ -15,6 +15,16 @@
           'type': 'file',
           'name': "RedparkSerialFramework.h",
           'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/RedparkSerialFramework/RedparkSerialFramework.h"
+        },
+        {
+          'type': 'file',
+          'name': "RscMgr.h",
+          'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/RedparkSerialFramework/RscMgr.h"
+        },
+        {
+          'type': 'file',
+          'name': "redparkSerial.h",
+          'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/RedparkSerialFramework/redparkSerial.h"
         }
       ]
     },
