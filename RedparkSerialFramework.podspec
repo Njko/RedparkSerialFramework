@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'RedparkSerialFramework'
-  s.version             = "1.4.0"
+  s.version             = "1.5.0"
   s.summary             = "Pod including Redpark Serial sdk"
   s.description         = <<-DESC
     This pod was intended only to include the Redpark Serial SDK to facilitate the inclusion of the library amongst different projects.
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author              = { 'Nicolas LINARD' => 'nicolas.linard@valtech.fr' }
   s.source              = { :git => "https://github.com/Njko/RedparkSerialFramework.git", :tag => s.version.to_s }
   s.requires_arc        = true
-  s.vendored_frameworks = 'RedparkSerialFramework.framework'
+  s.vendored_frameworks = '/RedparkSerialFramework/Output/RedparkSerialFramework-Release-iphoneuniversal/RedparkSerialFramework.framework'
   s.platform            = :ios, '8.0'
   s.requires_arc        = true
   s.license      = { :type => 'Apache License, Version 2.0', :text => <<-LICENSE

@@ -1,0 +1,1 @@
+ const unsigned char RedparkSerialFrameworkVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:RedparkSerialFramework  PROJECT:RedparkSerialFramework-1" "\n"; const double RedparkSerialFrameworkVersionNumber __attribute__ ((used)) = (double)1.;

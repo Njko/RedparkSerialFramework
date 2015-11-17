@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/Build/Products/Release-iphoneos/RedparkSerialFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RedparkSerialFramework-Swift.h",
+          'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/Build/Products/Release-iphoneos/RedparkSerialFramework.framework/Headers/RedparkSerialFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RedparkSerialFramework.h",
+          'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/RedparkSerialFramework/RedparkSerialFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/Build/Products/Release-iphoneos/RedparkSerialFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nicolas.linard/Projects/ios/redparkserialframework/build/RedparkSerialFramework/Build/Intermediates/RedparkSerialFramework.build/Release-iphoneos/RedparkSerialFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
