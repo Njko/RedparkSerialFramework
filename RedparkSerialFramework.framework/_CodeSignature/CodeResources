@@ -4,30 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/PWByteUtils.h</key>
-		<data>
-		SgTFGESM5IqsaJY9ofekUUiZAwo=
-		</data>
-		<key>Headers/PWDataReaderController.h</key>
-		<data>
-		r9GSzL+DOD6Di4ViY433ImJqmeg=
-		</data>
-		<key>Headers/PWDataReaderDelegate.h</key>
-		<data>
-		acMdrbAlvVA3vVwk5102JG65jF0=
-		</data>
-		<key>Headers/PWEtactCmd.h</key>
-		<data>
-		ollJGjVtULlS0LdYErigvmvqv1Q=
-		</data>
-		<key>Headers/PWEtactCommands.h</key>
-		<data>
-		9xRxoOb39w4QIurilqi8ow9L9UY=
-		</data>
-		<key>Headers/PWEtactReader.h</key>
-		<data>
-		JlsCjxQ2QxolGgZ0CpiXTG/WzWo=
-		</data>
 		<key>Headers/RedparkSerialFramework.h</key>
 		<data>
 		7+DvWXAwC5iISpiyA+QX2Ss1bG8=
@@ -51,30 +27,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/PWByteUtils.h</key>
-		<data>
-		SgTFGESM5IqsaJY9ofekUUiZAwo=
-		</data>
-		<key>Headers/PWDataReaderController.h</key>
-		<data>
-		r9GSzL+DOD6Di4ViY433ImJqmeg=
-		</data>
-		<key>Headers/PWDataReaderDelegate.h</key>
-		<data>
-		acMdrbAlvVA3vVwk5102JG65jF0=
-		</data>
-		<key>Headers/PWEtactCmd.h</key>
-		<data>
-		ollJGjVtULlS0LdYErigvmvqv1Q=
-		</data>
-		<key>Headers/PWEtactCommands.h</key>
-		<data>
-		9xRxoOb39w4QIurilqi8ow9L9UY=
-		</data>
-		<key>Headers/PWEtactReader.h</key>
-		<data>
-		JlsCjxQ2QxolGgZ0CpiXTG/WzWo=
-		</data>
 		<key>Headers/RedparkSerialFramework.h</key>
 		<data>
 		7+DvWXAwC5iISpiyA+QX2Ss1bG8=
